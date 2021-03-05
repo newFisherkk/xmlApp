@@ -1,0 +1,5 @@
+org\example\bean\VideoList.class
+org\example\App.class
+org\example\utils\DBHelper.class
+org\example\bean\Video.class
+org\example\utils\XmlUtils.class

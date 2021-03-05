@@ -1,0 +1,16 @@
+
+M
+java:S1481"+Remove this unused "reader" local variable.(ÜÔ’¢ÿÿÿÿÿ8İ»“î.
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(”äÙóıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½¦ÿÿÿÿÿ
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ÚòÎûÿÿÿÿ8±ÃÅ“î.
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(©‚¹³üÿÿÿÿ
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(õ¯§¢üÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(şıÑøÿÿÿÿ
+M
+java:S2589\"7Remove this expression which always evaluates to "true"(·¯îÉ
+Z
+java:S2147$"DCombine this catch with the one at line 34, which has the same body.(ï­£Ä
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(­ª¢Ã
